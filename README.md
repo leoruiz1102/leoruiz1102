@@ -28,4 +28,4 @@ I'm getting professional in ReactJS and React Native with GoStack bootcamp of [R
 <br><br>
 Together we can build amazing things, share what you know with other people. Remember, everyone has something to teach
 <br><br><br>
-<p align="right">**Look at my repositories and see what I already developed**</p>
+<p align="right"><b>Look at my repositories and see what I already developed</b></p>
