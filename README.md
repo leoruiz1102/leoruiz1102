@@ -1,5 +1,5 @@
 
-<h1> 👋 Welcome! My name is Leonardo and I'm a Full Stack Develope</h1>
+<h1> 👋 Welcome! My name is Leonardo and I'm a Full Stack Developer</h1>
 
 <div  align="center"><a href="https://www.linkedin.com/in/leonardo-santos-6551a31b3/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>
 
