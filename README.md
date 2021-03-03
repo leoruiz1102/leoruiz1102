@@ -18,8 +18,8 @@ I'm getting professional in ReactJS and React Native with GoStack bootcamp of [R
 
 ## 🧑🏻 About Me:
 ---
-- I'm 22 and I'm from Itajuba, MG 🇧🇷.
-- I work at [ZeroBugs](https://zerobugs.com.br/), delivering the best solutions to our customers' problems.
+- I'm 23 and I'm from São Paulo, SP 🇧🇷.
+- I work at [BTG Pactual](https://www.btgpactual.com), developing the bast service to our clients.
 - Studying Con[trol a]()nd Automation Engineer at [UNIFEI](https://unifei.edu.br/) 🎓.
 - Forró Teacher in voluntary project [Forró de Segunda](https://www.instagram.com/fds.itajuba/) 🕺.
 - Gamer in my free time 🎮.
